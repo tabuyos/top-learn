@@ -1,0 +1,7 @@
+tabuyos:
+  hello:
+    format:
+      info:
+        gender: male
+        address: cq
+        city: cn

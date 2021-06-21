@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.tabuyos.springboot.starter.format.autoconfiguration.HelloAutoConfiguration

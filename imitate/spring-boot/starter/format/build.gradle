@@ -1,0 +1,3 @@
+dependencies {
+  compileOnly("com.alibaba:fastjson:1.2.56")
+}

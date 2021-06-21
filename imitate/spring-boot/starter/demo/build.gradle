@@ -1,0 +1,8 @@
+plugins {
+  id("application")
+}
+
+dependencies {
+  implementation(project(":imitate:spring-boot:starter:format"))
+  implementation("com.alibaba:fastjson:1.2.56")
+}
